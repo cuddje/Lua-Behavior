@@ -1,2 +1,0 @@
-Id	OrderId	Name	ChapterName	Cover	Icon	Description	MinLevel	MaxLevel	ShowRewardId	SkipId	ChallengeId[1]	ChallengeId[2]	ChallengeId[3]	ChallengeId[4]	ChallengeId[5]
-1	1	黑闪	黑闪	Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner04.png	Assets/Product/Texture/Atlas/UiFubenActivityZhixian/UFAZhixianIcon1.png	黑闪	1	100	1001	20013	1	2	3	4	5
